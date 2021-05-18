@@ -4,9 +4,9 @@
 [submodule "Operator4.0_ROS"]
 	path = Operator4.0_ROS
 	url = https://github.com/inesosoares6/Operator4.0_ROS.git
-[submodule "Repeatability_tests"]
-	path = Repeatability_tests
-	url = https://github.com/inesosoares6/Repeatability_tests.git
+[submodule "repeatability_tests"]
+	path = repeatability_tests
+	url = https://github.com/inesosoares6/repeatability_tests.git
 [submodule "ExtractCoordinates_HTCvive"]
 	path = ExtractCoordinates_HTCvive
 	url = https://github.com/inesosoares6/ExtractCoordinates_HTCvive.git
