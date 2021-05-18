@@ -3,7 +3,7 @@
 Repos Guide:
 - Operator4.0_HoloLens2 -> Unity application of the Supervision and Monitoring System
 - Operator4.0_ROS -> ROS package of the Programming be Demonstration System
-- repeatability_tests -> ROS package of the initial Accuracy and Repeatability Tests
+- Repeatability_tests -> ROS package of the initial Accuracy and Repeatability Tests
 - ExtractCoordinatesHTCvive -> Unity Application for HTC Vive of the initial Accuracy and Repeatability Tests
 
 ## Programming Robots by Demonstration using Augmented Reality
