@@ -19,4 +19,6 @@ The system itself is divided into two different parts: the monitoring and superv
 ![overview](https://user-images.githubusercontent.com/76999213/118628880-ef3a9900-b7c4-11eb-9333-339d70e0b893.png)
 
 ## Author
-- Inês Soares (ines.o.soares@inesctec.pt | up201606615@up.pt)
+Inês Soares (ines.o.soares@inesctec.pt | up201606615@up.pt)
+- Master Student - Electrical and Computer Engineering @ FEUP
+- Master Thesis Development @ INESC TEC
