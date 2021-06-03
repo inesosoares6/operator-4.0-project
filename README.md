@@ -15,7 +15,7 @@ In this context a better interaction between the machines and the operators can 
 The system itself is divided into two different parts: the tracking system, which records the operator’s hand movement, and the translator of the programming by demonstration system, which builds the program to be sent to the robot to execute the task. The monitoring and supervision system is executed by the Microsoft HoloLens 2, using the Unity platform and Visual Studio to program it. The programming by demonstration system’s core was developed in Robot Operating System (ROS). The robots included in this interface are Universal Robots UR5 (collaborative robot) and ABB IRB 2600 (industrial robot). Moreover, the interface was built to easily add other robots.
 
 
-![overview](https://user-images.githubusercontent.com/76999213/118968115-702f9700-b963-11eb-8439-1677e930b73a.png)
+![overview](https://user-images.githubusercontent.com/76999213/120650117-5c148b00-c475-11eb-8217-522a48f8dac7.png)
 
 ## Author
 Inês de Oliveira Soares (ines.o.soares@inesctec.pt | up201606615@up.pt)
