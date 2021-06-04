@@ -36,8 +36,8 @@ $ sudo apt install ros-melodic-rosbridge-server
 ```
 
 9. By this point, all the necessary software is installed and ready to run.
-10. The HoloLens 2 application itself gives the necessary instructions on how to use it, however in [this page](https://github.com/inesosoares6/Operator4.0_HoloLens2) is done an overview on how it works.
-11. For further details on how the ROS package works, [this page](https://github.com/inesosoares6/Operator4.0_ROS) clarifies what scripts to execute and what they do.
+10. The HoloLens 2 application itself gives the necessary instructions on how to use it, however in [this page](https://github.com/inesosoares6/Operator4.0_HoloLens2/blob/master/README.md) is done an overview on how it works.
+11. For further details on how the ROS package works, [this page](https://github.com/inesosoares6/Operator4.0_ROS/blob/master/README.md) clarifies what scripts to execute and what they do.
 
 Note: To execute the project as a whole, you should first execute the commands in ROS and then launch the application in HoloLens 2. This is extremely important, because as soon as the application is lauched, it will try to connect to ROS bridge, so that should be already running.
 
