@@ -41,6 +41,10 @@ $ sudo apt install ros-melodic-rosbridge-server
 
 Note: To execute the project as a whole, you should first execute the commands in ROS and then launch the application in HoloLens 2. This is extremely important, because as soon as the application is lauched, it will try to connect to ROS bridge, so that should be already running.
 
+## Documents
+
+Demonstration video: [Operator 4.0](https://youtu.be/joV-4uArWDw)
+
 ## Author
 Inês de Oliveira Soares (ines.o.soares@inesctec.pt | up201606615@up.pt)
 - Master Student - Electrical and Computer Engineering @ FEUP
